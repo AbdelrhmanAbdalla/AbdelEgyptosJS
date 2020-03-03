@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5e5e391c8cc0916ab8ce9443"},"username":"admin","email":"admin","password":"admin","user_role":{"$numberInt":"1"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e5e716b6e8b3c1b6cfc44ab"},"username":"abdou","email":"abdou","password":"abdou","user_role":{"$numberInt":"0"},"__v":{"$numberInt":"0"}}
