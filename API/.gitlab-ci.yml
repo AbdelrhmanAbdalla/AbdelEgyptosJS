@@ -1,0 +1,4 @@
+staging: 
+  type: deploy
+  image: ruby:latest
+  
